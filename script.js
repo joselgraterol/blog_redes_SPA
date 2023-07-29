@@ -899,7 +899,7 @@ function contact() {
 
         <h2>Sobre Mi</h2>
 
-        <p class="text">Soy estudiantes de informática del Trayecto 2 Trimestre 1 de la Universidad Politécnica Territorial de Falcón "Alonso Gamero" y decidí crear este blog con la finalidad de compartir los conocimientos que he adquirido durante este trimestre sobre las Redes de Computadoras, si tienes alguna duda, no dudes en contactarme.</p>
+        <p class="text">Soy estudiante de informática del Trayecto 2 Trimestre 1 de la Universidad Politécnica Territorial de Falcón "Alonso Gamero" y decidí crear este blog con la finalidad de compartir los conocimientos que he adquirido durante este trimestre sobre las Redes de Computadoras, si tienes alguna duda, no dudes en contactarme.</p>
 		
 		<h5>Autor</h5>
 		<ul>
